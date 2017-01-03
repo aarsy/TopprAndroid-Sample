@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Topper Android</string>
+    <string name="app_name">Toppr Android</string>
     <string name="search_result">SearchResult</string>
     <string name="search_hint">Search</string>
     <string name="menu_search">Search</string>
